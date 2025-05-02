@@ -29,3 +29,22 @@ This virtual lab simulates security operations, threat analysis, and incident re
 - Analyze logs and security alerts using SIEM tools like Splunk.
 - Simulate real-world security threats and refine mitigation strategies.
 
+## Procedure Of Setting UP VMs
+
+Setting up a virtual lab on VMware can be a great way to experiment with different configurations, test software, or learn about networking and system administration. Here’s a general guide to get you started:
+
+1. Choose Your VMware Product – VMware offers different virtualization solutions, such as VMware Workstation, VMware, and VMware Fusion (for macOS). Select the one that best fits your needs.
+
+2. Install VMware Software – Download and install the VMware product on your computer. 
+
+3. Create a Virtual Machine (VM) – Open VMware and create a new VM. Choose the operating system you want to install and allocate resources like CPU, RAM, and storage.
+
+4. Set Up Networking – Configure network settings for your VM. You can use NAT, Bridged, or Host-Only networking depending on your requirements.
+
+5. Install Guest OS – Load an ISO file to install the operating system inside the VM.
+
+6. Configure Your Lab Environment– Depending on your goals, you can create multiple VMs, set up a domain controller, install applications, or simulate network scenarios.
+
+7. Snapshot & Backup– Take snapshots of your VMs to save their state before making major changes. This allows you to revert if needed.
+
+
